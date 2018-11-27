@@ -390,4 +390,4 @@ function shuffle(queue) {
 /* MISC FUNCTIONS END */
 /*-------------------*/
 
-bot.login(process.evn,BOT_TOKEN);
+bot.login(process.evn.BOT_TOKEN);
